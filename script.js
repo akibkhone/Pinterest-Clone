@@ -28,6 +28,34 @@ var array = [
 		name: 'Cristiano',
 		image: 'https://images.unsplash.com/photo-1586196877083-6a4e8a995cf1?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3Jpc3RpYW5vJTIwcm9uYWxkb3xlbnwwfHwwfHx8MA%3D%3D',
 	},
+	{
+		name: 'Moon',
+		image: 'https://images.unsplash.com/photo-1481819613568-3701cbc70156?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGxhbmV0fGVufDB8fDB8fHww',
+	},
+	{
+		name: 'Happy',
+		image: 'https://images.unsplash.com/photo-1709704989783-8d9bc093b578?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNDN8fHxlbnwwfHx8fHw%3D',
+	},
+	{
+		name: 'Blur Man',
+		image: 'https://plus.unsplash.com/premium_photo-1709675363761-95dfcc15e6ed?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOXx8fGVufDB8fHx8fA%3D%3D',
+	},
+	{
+		name: 'Man on Mobile',
+		image: 'https://plus.unsplash.com/premium_photo-1689607810298-f849d1d0cfb9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4NHx8fGVufDB8fHx8fA%3D%3D',
+	},
+	{
+		name: 'Parrot',
+		image: 'https://images.unsplash.com/photo-1709733167481-c1da481d30d1?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OHx8fGVufDB8fHx8fA%3D%3D',
+	},
+	{
+		name: 'Dog',
+		image: 'https://images.unsplash.com/photo-1709777571247-39ad71a2d86e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMjh8fHxlbnwwfHx8fHw%3D',
+	},
+	{
+		name: 'Little girl',
+		image: 'https://images.unsplash.com/photo-1638996970429-389100ca2b48?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMzd8fHxlbnwwfHx8fHw%3D',
+	},
 ];
 // Function to display all cards initially
 function showTheCards() {

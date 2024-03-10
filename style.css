@@ -57,6 +57,14 @@ img:hover {
 
 @media (max-width: 480px) {
 	.container {
-		columns: 1;
+		columns: 2;
+	}
+	.navigation {
+		display: flex;
+	}
+
+	.links,
+	.iconsnpic {
+		display: none;
 	}
 }
